@@ -1,0 +1,9 @@
+Perubahan Database belum dikirim ke server gresik:
+
+04 Mei 2019
+Kode Ref id -> menggunakan php uniqid()
+
+
++ Table => pemb_online
+	- ref_id (varchar:15)
+	- NoAng 
